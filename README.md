@@ -1,4 +1,4 @@
-# face_id
+# face_recognition
 Face recognition system created over the face_recognition library of @ageitgey
 
 # encode_images.py
